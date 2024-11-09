@@ -1,0 +1,47 @@
+body {
+    padding-bottom: 90px;
+}
+
+.apply-btn {
+    font-weight: 600;
+}
+
+.btn-group label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.card-custom {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card-custom:hover {
+    transform: translateY(-5px);
+}
+
+.card-custom .card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.card-custom .card-text {
+    color: #777;
+    font-weight: 400;
+}
+
+.card-custom .card-text.text-end {
+    font-weight: 600;
+    color: #333;
+}
+
+.searchbar {
+    margin-inline-end: auto;
+    margin-bottom: 0.5rem;
+    padding: 16px 24px;
+    border-radius: 24px;
+}

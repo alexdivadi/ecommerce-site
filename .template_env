@@ -1,0 +1,6 @@
+# Django Secret Key
+SECRET_KEY = 
+
+# Credentials for PostgreSQL database
+DB_USER = 
+DB_PASS = 
