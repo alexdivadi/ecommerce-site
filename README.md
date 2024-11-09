@@ -1,9 +1,14 @@
 # E-commerce Home Page
 Django application to display and filter a list of products on a fake e-commerce website.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe src="https://www.loom.com/embed/953870e031a34d1d811db042366704c4?sid=7793f11e-f6fe-4400-ac38-53473bfd0bb2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+<div>
+    <a href="https://www.loom.com/share/953870e031a34d1d811db042366704c4">
+      <p>Site Demo</p>
+    </a>
+    <a href="https://www.loom.com/share/953870e031a34d1d811db042366704c4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/953870e031a34d1d811db042366704c4-8316ddea90bfcb6d-full-play.gif">
+    </a>
+  </div>
 
 ## Tech Stack
 - **Backend**: Django
