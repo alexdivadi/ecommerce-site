@@ -39,9 +39,29 @@ body {
     color: #333;
 }
 
-.searchbar {
-    margin-inline-end: auto;
+.search-container {
+    position: relative;
+    width: 100%;
+}
+
+.search-container .searchbar {
     margin-bottom: 0.5rem;
     padding: 16px 24px;
     border-radius: 24px;
+}
+
+.search-container button {
+    float: right;
+    padding: 16px 24px;
+    border-radius: 24px;
+    margin-inline-end: auto;
+    margin-bottom: 0.5rem;
+    background: #ddd;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.search-container button:hover {
+    background: #ccc;
 }

@@ -2,11 +2,9 @@
 Django application to display and filter a list of products on a fake e-commerce website.
 
 <div>
-    <a href="https://www.loom.com/share/953870e031a34d1d811db042366704c4">
-      <p>Site Demo</p>
-    </a>
-    <a href="https://www.loom.com/share/953870e031a34d1d811db042366704c4">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/953870e031a34d1d811db042366704c4-8316ddea90bfcb6d-full-play.gif">
+Site Demo. Click to watch full video
+    <a href="https://www.loom.com/share/4e2fd7390fd64e1394938bb4d25edbf5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4e2fd7390fd64e1394938bb4d25edbf5-f3730ab0cb87828c-full-play.gif">
     </a>
   </div>
 
@@ -90,7 +88,6 @@ COMMIT;
 ```
 
 ## Future Improvements
-- **Category Filters:** Change UI of filters, i.e. make a drop-down select or make filters apply upon click.
 - **Sorting:** Allow the user to sort by price (asc/desc) or other categories.
 - **Product Detail:** Add a view and navigation to show details about a product.
 - **REST API:** Use DRF to add serializers and endpoints for product and categories.
